@@ -1,0 +1,14 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "hangman-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "hot_poppers"
+  },
+  "author": "Jennifer Valle",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
