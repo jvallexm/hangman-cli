@@ -1,4 +1,4 @@
-const Word     = require('./word.js');
+const Word     = require('./constructors/word.js');
 const inquirer = require("inquirer");
 
 
